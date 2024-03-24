@@ -5,7 +5,7 @@
 </h3>
 
 <center>
-<img src="https://raw.githubusercontent.com/YASIN-404/YASIN-404/main/Photos/FB_IMG_1688442107705.jpg" width="80" height="160" align="right">
+<img src="https://raw.githubusercontent.com/YASIN-404/YASIN-404/main/Photos/FB_IMG_1688442107705.jpg" width="100" height="120" align="right">
 <center>
  
 
@@ -19,8 +19,7 @@ __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
  
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YASIN-404&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYASIN-AHMES%2Fgithub-YASIN-404&label=YASIN'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
-<center>
+
 <a href="https://github.com/YASIN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=YASIN-404&theme=monokai"></a>
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
