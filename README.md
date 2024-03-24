@@ -1,5 +1,3 @@
-![1675760832285](https://user-images.githubusercontent.com/79738922/217200618-d42f4040-d13e-4b5a-8f79-e828d6fc8f1e.png)
-
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
     Welcome To Yasin's Profile  
@@ -7,7 +5,7 @@
 </h3>
 
 <center>
-<img src="https://raw.githubusercontent.com/YASIN-404/YASIN-404/main/Photos/FB_IMG_1688442107705.jpg" width="100" height="180" align="right">
+<img src="https://raw.githubusercontent.com/YASIN-404/YASIN-404/main/Photos/FB_IMG_1688442107705.jpg" width="80" height="160" align="right">
 <center>
  
 
