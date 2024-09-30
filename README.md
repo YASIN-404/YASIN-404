@@ -10,7 +10,7 @@
  
 
 <a href="https://t.me/Yasinahmedxyz"><img src="https://raw.githubusercontent.com/YASIN-404/YASIN-404/main/Photos/telegram.png" alt="alt text" width="81" height="81"></a>
-<a href="https://www.facebook.com/profile.php?id=100001443641839" target="_blank"><img src="https://raw.githubusercontent.com/YASIN-404/YASIN-404/main/Photos/facebook.png" alt="alt text" width="81" height="81"></a>
+<a href="https://www.facebook.com/xD.Yasinarafat?mibextid=ZbWKwL" target="_blank"><img src="https://raw.githubusercontent.com/YASIN-404/YASIN-404/main/Photos/facebook.png" alt="alt text" width="81" height="81"></a>
 
  
 __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
